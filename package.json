@@ -1,0 +1,17 @@
+{
+  "name": "hms_admin",
+  "version": "1.0.0",
+  "description": "forHmsProject",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "dependencies": {
+    "jasminewd": "^1.1.0"
+  },
+  "devDependencies": {
+    "jasmine-reporters": "^2.0.0"
+  }
+}
